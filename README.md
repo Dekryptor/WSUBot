@@ -1,2 +1,1 @@
-"# WSUBot" 
-"# WSUBot" 
+"WSUSoftware Bot"
